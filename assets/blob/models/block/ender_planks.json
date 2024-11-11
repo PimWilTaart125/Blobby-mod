@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "blob:block/endtree",
+    "particle": "blob:block/endtree"
+  },
+  "render_type": "solid"
+}

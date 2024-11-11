@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "blob:block/endlogtop",
+    "up": "blob:block/endlogtop",
+    "north": "blob:block/endlogside",
+    "east": "blob:block/endlogside",
+    "south": "blob:block/endtree",
+    "west": "blob:block/endtree",
+    "particle": "blob:block/endlogtop"
+  },
+  "render_type": "solid"
+}

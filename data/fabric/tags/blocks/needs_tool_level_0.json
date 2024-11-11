@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "blob:ender_log",
+    "blob:ender_wood",
+    "blob:ender_planks",
+    "blob:ender_leaves",
+    "blob:ender_stairs",
+    "blob:ender_slab",
+    "blob:ender_fence",
+    "blob:ender_fence_gate",
+    "blob:ender_pressure_plate",
+    "blob:ender_button"
+  ]
+}

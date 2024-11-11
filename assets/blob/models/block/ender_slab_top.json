@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "blob:block/ender_planks",
+    "top": "blob:block/ender_planks",
+    "side": "blob:block/ender_planks"
+  },
+  "render_type": "solid"
+}

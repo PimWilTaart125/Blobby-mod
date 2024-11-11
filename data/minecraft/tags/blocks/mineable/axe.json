@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "blob:ender_log",
+    "blob:ender_wood",
+    "blob:ender_planks"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "wooden_button",
+  "category": "redstone",
+  "ingredients": [
+    {
+      "item": "blob:ender_planks"
+    }
+  ],
+  "result": {
+    "item": "blob:ender_button",
+    "count": 1
+  }
+}
