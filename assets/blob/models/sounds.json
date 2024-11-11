@@ -1,0 +1,12 @@
+{
+  "wanderblob": {
+    "category": "neutral",
+    "subtitle": "subtitles.wanderblob",
+    "sounds": [
+      {
+        "name": "blob:videoplayback",
+        "stream": false
+      }
+    ]
+  }
+}

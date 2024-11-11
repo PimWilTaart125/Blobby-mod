@@ -1,0 +1,17 @@
+{
+  "block.blob.ender_stairs": "Ender Stairs",
+  "entity.blob.swampblob": "Swampblob",
+  "block.blob.ender_wood": "Ender Wood",
+  "block.blob.ender_log": "Ender Log",
+  "subtitles.wanderblob": "nope",
+  "item.blob.swampblob_spawn_egg": "Swampblob Spawn Egg",
+  "block.blob.ender_fence_gate": "Ender Fence Gate",
+  "block.blob.ender_leaves": "Ender Leaves",
+  "block.blob.ender_slab": "Ender Slab",
+  "block.blob.ender_pressure_plate": "Ender Pressure Plate",
+  "block.blob.ender_fence": "Ender Fence",
+  "block.blob.ender_planks": "Ender Planks",
+  "biome.blob.endertrees": "Endertrees",
+  "item.blob.swampblobdrop": "Slimy slime",
+  "block.blob.ender_button": "Ender Button"
+}
