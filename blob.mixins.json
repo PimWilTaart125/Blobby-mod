@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.pimwiltaart.blob.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+      "BlobModRepairItemRecipeMixin",
+      "NoiseGeneratorSettingsAccess"  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
